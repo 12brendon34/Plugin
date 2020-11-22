@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/12brendon34/Plugin
+build-by-default: true
+branches:
+- master
+projects:
+  Plugin:
+    path: ""
+...
